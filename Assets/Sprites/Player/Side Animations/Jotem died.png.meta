@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: af90fc50c2426984b88917e35c7b832f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jotem died_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a60f57e76c7424b9fe349c69bb6fca
+      internalID: 183860055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5616882620e36b45bed7ca6a9735cff
+      internalID: 2138864967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03000f057f96891428313da83828f07f
+      internalID: 495049990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a149c58c82c84a949477b14ef7bdb
+      internalID: -611959671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529185c06ac456c45b7443cfe4615c14
+      internalID: 1583282712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5277aacd04c9840a5f86d5ddf1e75b
+      internalID: -692030502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a241dc5d5c2b6c4fa5675d5d498a472
+      internalID: -1804080746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750733b8993434641b4be5f14de28696
+      internalID: 345104747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5e36aed452d1a4db16bef78bf6ba1b
+      internalID: -2053113107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b951f1fe0fd824ea53852e8430c7b8
+      internalID: -243278281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e430af9e3c5924aae24be2a37674be
+      internalID: -1776896758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256.6667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea38695865a3247b26d5991047b759
+      internalID: 187908931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3b387097f6dde408ecadd99a8c7e1f
+      internalID: 1386043029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2034dccf0b7d21641806d5df404e77f9
+      internalID: 181015107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc57b0e2115ba584fa152ecefff5fbe0
+      internalID: -129418754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311eb516529fa4649b75612d04c28b60
+      internalID: -1181262665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d32602462232428b225c80fb93f94
+      internalID: -1773776135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fb2aeaf46d1844e89026b8ee7f8016
+      internalID: -1209882671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e71791c3fb4d54dae5a059c1329005
+      internalID: 512842786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d6d92f65212243a589efbc48b13fd
+      internalID: -263340055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e36f9c36936354b87332162729a1d4
+      internalID: 2042641406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_21
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d685a5da593c44877ba64e55994bd
+      internalID: -1358872582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6364aba437196474c9c115a6c7fe9ffb
+      internalID: -298279667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_23
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128.66667
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd32beac04ffe46b811d0b6ba268be
+      internalID: -607186721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.66667175
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5586e08942a0f24197c73127200b927
+      internalID: 190267661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0.66667175
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e367fc26ff29b341b29c834ef54bb14
+      internalID: -750579608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0.66667175
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813dcf8efa009c4468bf665b184e107e
+      internalID: -616238648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0.66667175
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44e697d3fc62fb4dbbabd7841368893
+      internalID: 1200137527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0.66667175
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0066bea28b52340b2e24bd54942c45
+      internalID: -1203488814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotem died_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0.66667175
+        width: 128.5
+        height: 128.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8477545eda41a214e8132238ab8e2364
+      internalID: -1707844039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jotem died_0: 183860055
+      Jotem died_1: 2138864967
+      Jotem died_10: -1776896758
+      Jotem died_11: 187908931
+      Jotem died_12: 1386043029
+      Jotem died_13: 181015107
+      Jotem died_14: -129418754
+      Jotem died_15: -1181262665
+      Jotem died_16: -1773776135
+      Jotem died_17: -1209882671
+      Jotem died_18: 512842786
+      Jotem died_19: -263340055
+      Jotem died_2: 495049990
+      Jotem died_20: 2042641406
+      Jotem died_21: -1358872582
+      Jotem died_22: -298279667
+      Jotem died_23: -607186721
+      Jotem died_24: 190267661
+      Jotem died_25: -750579608
+      Jotem died_26: -616238648
+      Jotem died_27: 1200137527
+      Jotem died_28: -1203488814
+      Jotem died_29: -1707844039
+      Jotem died_3: -611959671
+      Jotem died_4: 1583282712
+      Jotem died_5: -692030502
+      Jotem died_6: -1804080746
+      Jotem died_7: 345104747
+      Jotem died_8: -2053113107
+      Jotem died_9: -243278281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
